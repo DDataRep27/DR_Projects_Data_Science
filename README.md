@@ -6,11 +6,11 @@
 ### Below are the direct links to my project repositories:
 
 
-1. ***Sentiment Analysis Prediction_Deep Learning -*** https://github.com/DDataRep27/Sentiment-Analysis----Hotel-Reviews_Deep-Learning
+***1.Sentiment Analysis Prediction_Deep Learning -*** https://github.com/DDataRep27/Sentiment-Analysis----Hotel-Reviews_Deep-Learning
 
-2. ***Sentiment Analysis Prediction_Machine Learning -*** https://github.com/DDataRep27/Sentiment-Analysis----Hotel-reviews_Machine-Learning
+***2.Sentiment Analysis Prediction_Machine Learning -*** https://github.com/DDataRep27/Sentiment-Analysis----Hotel-reviews_Machine-Learning
 
-3. ***Telecom Customer Churn Prediction -*** https://github.com/DDataRep27/Customer-Churn-Prevention
+***3.Telecom Customer Churn Prediction -*** https://github.com/DDataRep27/Customer-Churn-Prevention
 
 ***4. Book Recommendation Project -*** https://github.com/DDataRep27/Book-Recommendation-System-
 
