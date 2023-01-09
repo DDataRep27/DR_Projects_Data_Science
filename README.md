@@ -1,4 +1,4 @@
-# DR_Projects_Data_Science
+# DR_Projects_Data Science
 
 Hi, I’m Deepak Regonda, a Budding Data Scientist.
 
