@@ -8,12 +8,12 @@
 
 1. ***Sentiment Analysis Prediction_Deep Learning -*** https://github.com/DDataRep27/Sentiment-Analysis----Hotel-Reviews_Deep-Learning
 
-***Sentiment Analysis Prediction_Machine Learning -*** https://github.com/DDataRep27/Sentiment-Analysis----Hotel-reviews_Machine-Learning
+2. ***Sentiment Analysis Prediction_Machine Learning -*** https://github.com/DDataRep27/Sentiment-Analysis----Hotel-reviews_Machine-Learning
 
-***Telecom Customer Churn Prediction -*** https://github.com/DDataRep27/Customer-Churn-Prevention
+3. ***Telecom Customer Churn Prediction -*** https://github.com/DDataRep27/Customer-Churn-Prevention
 
-***Book Recommendation Project -*** https://github.com/DDataRep27/Book-Recommendation-System-
+***4. Book Recommendation Project -*** https://github.com/DDataRep27/Book-Recommendation-System-
 
-***Medical Health Insurance Premium Prediction -*** https://github.com/DDataRep27/Medical_Insurance-Premium---Prediction
+***5. Medical Health Insurance Premium Prediction -*** https://github.com/DDataRep27/Medical_Insurance-Premium---Prediction
 
-***Mushroom Class Prediction -*** https://github.com/DDataRep27/Mushroom-Class-Prediction
+***6. Mushroom Class Prediction -*** https://github.com/DDataRep27/Mushroom-Class-Prediction
