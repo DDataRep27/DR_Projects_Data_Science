@@ -2,7 +2,7 @@
 
 Hi, I’m Deepak Regonda, a Budding Data Scientist.
 
-To view my GitHub profile: https://github.com/DDataRep27
+**To view my GitHub profile:** https://github.com/DDataRep27
 
 
 ### Below are the direct links to my project repositories:
