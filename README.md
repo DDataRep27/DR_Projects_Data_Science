@@ -3,7 +3,7 @@
 
 
 
-### Below are the links to project repositories:
+### Below are the direct links to my project repositories:
 
 
 ***Sentiment Analysis Prediction_Deep Learning -*** https://github.com/DDataRep27/Sentiment-Analysis----Hotel-Reviews_Deep-Learning
